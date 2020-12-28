@@ -374,10 +374,10 @@ nav a{
 		border-bottom--radius: 5px;
 	}
 	.basdepage{
-		display: hidden;
+		display: none;
 	}
 	#écolière{
-		display: hidden;
+		display: none;
 	}
 	.border{
 		display: block;
