@@ -1,0 +1,35 @@
+a, a:visited{color:#1f8dd6}
+#header{position:absolute;width:100%;height:25%;background:#fafafa;background:white;min-height: 200px;}
+#header_visuel{position:relative;left:10%;height:100%;width:80%;background:}
+
+#menu_content{text-align:center;font-size:0px;line-height: 2.6;}
+
+.menu{width:100%;color:white;text-align:left;line-height: 2.7; }
+.menu span{font-size: 21px;padding: 1em;color: #fff;}
+.block_text{width:25%;display:inline-block;vertical-align: top;font-size:0px;}
+.text_content a{text-decoration:underline;}
+.text_content{border-right:1px dotted #eeeeee;}
+.block_text h3{background: #fafafa url(images/link-icon.png) no-repeat 98% center;padding: 3% 4% 3% 4%;font-size: 18px;/*border-top: 1px solid #eee;border-bottom: 1px solid #eee;background:#fafafa*/;margin-top: 0px;
+color:rgb(75, 75, 75);
+border-bottom: 1px solid #eeeeee;
+border-top: 1px solid #eeeeee;
+}
+.block_text_semi h3{padding:0.5% 4% 0.5% 4%}
+.block_text p{padding: 0 4%;font-size: 16px;}
+.block_text p a{/*text-decoration:underline;*/text-align}
+.border_bottom{border-bottom: 1px dashed grey;}
+.administratif a{color:#5eb95e;}.supports a{color:#dd514c;}.projet a{color:#f37b1d;}.td a{color:#e2bc26;}.articles a{color:rgb(103, 194, 240);} .ressources a{color:rgb(200, 131, 255);}
+.td img{vertical-align: top;margin: 0 5px 0 4px;}
+.info{color: white;text-shadow: 1px 1px 1px grey;-moz-text-shadow: 1px 1px 1px grey;-webkit-text-shadow: 1px 1px 1px grey;background: rgba(0,0,0,0.5);display: inline-block;padding: 0px 1%;margin-top: 1%;text-transform: uppercase;position:relative;z-index:55;font-size:1.6em;}
+.sub_info{text-transform: initial;text-shadow: initial;font-size: 0.7em;}
+.text_content.projet a img{vertical-align: top;}
+
+.block_info{background: #FCEEEE url(images/icon-info.png) no-repeat 1% center;padding: 0% 2% 0% 2%;color: rgb(75, 75, 75);border-bottom: 1px solid transparent;border-top: 1px solid #dd514c;}
+.block_info p{padding-left:55px;color:#dd514c;line-height: 1em;}
+.block_info a{text-decoration:underline;}
+
+.block_univ{background: #000 url(images/um3-logo.jpg) no-repeat 5px 0px; padding: 0% 2% 0% 2%;color:white;font-size:1.4em}
+.block_univ p{padding-left:25px;margin:0em}
+
+#btn_play{position:absolute;top:50%;left:50%;margin:-55px 0 0 -55px;-moz-opacity: 0.80;-khtml-opacity: 0.80;opacity: 0.80;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=80);filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);filter:alpha(opacity=80);}
+#btn_play:hover{-moz-opacity: 1;-khtml-opacity: 1;opacity: 1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);filter:alpha(opacity=100);}
