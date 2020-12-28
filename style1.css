@@ -373,7 +373,12 @@ nav a{
 		transition: all 1s ease-out;
 		border-bottom--radius: 5px;
 	}
-
+	.basdepage{
+		display: hidden;
+	}
+	#écolière{
+		display: hidden;
+	}
 	.border{
 		display: block;
 	}
